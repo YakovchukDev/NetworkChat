@@ -1,0 +1,13 @@
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.exe
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.dll
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\bin\Debug\netcoreapp3.1\Server.pdb
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.dll
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.pdb
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.exe
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.deps.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.runtimeconfig.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.runtimeconfig.dev.json
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.dll
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\bin\Debug\netcoreapp3.1\ClientConsole.pdb
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.csprojAssemblyReference.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.AssemblyInfoInputs.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.AssemblyInfo.cs
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.csproj.CoreCompileInputs.cache
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.dll
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.pdb
+B:\Програмирувание\Шаг\Network programing\Homeworks\hm2503\ClientConsole\obj\Debug\netcoreapp3.1\ClientConsole.genruntimeconfig.cache
